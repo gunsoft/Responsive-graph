@@ -1,0 +1,32 @@
+<xml>
+	<col>
+		<name>Stlpec 1</name>
+		<value>95</value>
+		<color>#ff0000</color>
+	</col>
+	<col>
+		<name>Stlpec 2</name>
+		<value>80</value>
+		<color>#ffff00</color>
+	</col>
+	<col>
+		<name>Stlpec 3</name>
+		<value>75</value>
+		<color>#ff00ff</color>
+	</col>
+	<col>
+		<name>Stlpec 4</name>
+		<value>62</value>
+		<color>#00ffff</color>
+	</col>
+	<col>
+		<name>Stlpec 5</name>
+		<value>28</value>
+		<color>#0000ff</color>
+	</col>
+	<col>
+		<name>Stlpec 6</name>
+		<value>10</value>
+		<color>#000000</color>
+	</col>
+</xml>
